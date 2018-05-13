@@ -1,9 +1,11 @@
 # MonitorControl.OSX
 
+### A menu let to control your monitor (brightness, contrast, volume)
+- Compatible with most Dell monitors, ASUS and LG, Samsung and many more
 
 [Download the Release ➤ MonitorControl.OSX.app.zip](https://github.com/chris1111/MonitorControl.OSX/releases/tag/V1)
 
-#### App Screenshot
+### App Screenshot
 ![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu555.png)
 
 #### Screenshot
