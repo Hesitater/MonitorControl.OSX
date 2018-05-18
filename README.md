@@ -13,8 +13,6 @@
 #### Screenshot
 ![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/sans_177.png)
 
-#### Screenshot from my laptop
-![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/ribkx10.png)
 
 
 
