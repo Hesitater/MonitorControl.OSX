@@ -75,7 +75,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     func applicationDidFinishLaunching(_ aNotification: Notification) {
         app = self
 
-        statusItem.title = "♨"
+        statusItem.title = "🖥"
         statusItem.menu = statusMenu
 
         acquirePrivileges()
@@ -213,7 +213,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
             let brightnessSlider = addSliderItem(menu: monitorSubMenu, isDefaultDisplay: isDefaultDisplay, display: d, command: BRIGHTNESS, title: "Brightness", shortcut: "⇧⌘- / ⇧⌘+")
             let _ = addSliderItem(menu: monitorSubMenu, isDefaultDisplay: isDefaultDisplay, display: d, command: CONTRAST, title: "Contrast", shortcut: "")
-            let volumeSlider = addSliderItem(menu: monitorSubMenu, isDefaultDisplay: isDefaultDisplay, display: d, command: AUDIO_SPEAKER_VOLUME, title: "Volume", shortcut: "⌥⌘- / ⌥⌘+")
+            let volumeSlider = addSliderItem(menu: monitorSubMenu, isDefaultDisplay: isDefaultDisplay, display: d, command: AUDIO_SPEAKER_VOLUME, title: "Volume", shortcut: "F1 / F2")
 
 
             let defaultMonitorItem = NSMenuItem()
