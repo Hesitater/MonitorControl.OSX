@@ -12,7 +12,7 @@
 		56754EAF1D9A4016007BCDC5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56754EAE1D9A4016007BCDC5 /* AppDelegate.swift */; };
 		56754EB11D9A4016007BCDC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56754EB01D9A4016007BCDC5 /* Assets.xcassets */; };
 		56754EB41D9A4016007BCDC5 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 56754EB21D9A4016007BCDC5 /* MainMenu.xib */; };
-		83EBA01620A7DA3400CDA3FC /* MonitorControl.OSX.icns in Resources */ = {isa = PBXBuildFile; fileRef = 83EBA01520A7DA3400CDA3FC /* MonitorControl.OSX.icns */; };
+		A14CF41420F7399600561016 /* MonitorControl.OSX.icns in Resources */ = {isa = PBXBuildFile; fileRef = A14CF41320F7399600561016 /* MonitorControl.OSX.icns */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		56754EB01D9A4016007BCDC5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56754EB31D9A4016007BCDC5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		56754EB51D9A4016007BCDC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		83EBA01520A7DA3400CDA3FC /* MonitorControl.OSX.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = MonitorControl.OSX.icns; path = ../../MonitorControl.OSX.icns; sourceTree = "<group>"; };
+		A14CF41320F7399600561016 /* MonitorControl.OSX.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = MonitorControl.OSX.icns; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +76,7 @@
 				56754EAE1D9A4016007BCDC5 /* AppDelegate.swift */,
 				56754EB01D9A4016007BCDC5 /* Assets.xcassets */,
 				56754EB21D9A4016007BCDC5 /* MainMenu.xib */,
-				83EBA01520A7DA3400CDA3FC /* MonitorControl.OSX.icns */,
+				A14CF41320F7399600561016 /* MonitorControl.OSX.icns */,
 				56754EB51D9A4016007BCDC5 /* Info.plist */,
 				55359E3E1E27380B002671BC /* Bridging-Header.h */,
 			);
@@ -142,10 +142,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A14CF41420F7399600561016 /* MonitorControl.OSX.icns in Resources */,
 				56754EB11D9A4016007BCDC5 /* Assets.xcassets in Resources */,
 				55359E3B1E2737EC002671BC /* ddcctl.sh in Resources */,
 				56754EB41D9A4016007BCDC5 /* MainMenu.xib in Resources */,
-				83EBA01620A7DA3400CDA3FC /* MonitorControl.OSX.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
